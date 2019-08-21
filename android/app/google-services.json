@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "518201253770",
+    "firebase_url": "https://mymoviebrowser-8db64.firebaseio.com",
+    "project_id": "mymoviebrowser-8db64",
+    "storage_bucket": "mymoviebrowser-8db64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518201253770:android:452c3db4031b701a",
+        "android_client_info": {
+          "package_name": "com.vsilaire.my_movie_browser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518201253770-4r47eosaobkqjv8ek2m88cbovrj85fi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAamMS7zd2S4rcqO-cCiDxt80uKaCouDG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518201253770-4r47eosaobkqjv8ek2m88cbovrj85fi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
